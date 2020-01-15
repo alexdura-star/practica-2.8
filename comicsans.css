@@ -7,7 +7,14 @@ body {
 
 h1 {
     font-size: 3rem;
-    text-align: right;
+    text-align: center;
+   }
+
+  
+  span {
+    color: red;
+    font-family: "Comic Sans", cursive;
+
 }
 
 h2 {
@@ -30,10 +37,6 @@ em {
     color: green;
 }
 
-span {
-    color: red;
-    font-family: "Comic Sans", cursive;
-}
 
 time {
     color: darkorange;
